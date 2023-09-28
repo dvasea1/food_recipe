@@ -7,4 +7,5 @@ class AppColors {
   static Color galleryColor = const Color(0xffEBEBEB);
   static Color dairyCreamColor = const Color(0xffF9E2BE);
   static Color springWoodColor = const Color(0xffF5F5EB);
+  static Color hotToddyColor = const Color(0xffC77D0A);
 }
