@@ -33,6 +33,7 @@ dependencies:
 
   #orice librarie
   flutter_svg:
+  get: ^4.6.6
 
 
 
